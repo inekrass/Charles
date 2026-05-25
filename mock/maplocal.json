@@ -1,0 +1,231 @@
+{
+	"canonical_uid": "R_6187_9602497_g25_4",
+	"title": "ИТМО (КРОНВА) - ИТМО (ЛОМОНОСОВА)",
+	"number": "1111",
+	"is_combined": false,
+	"start_time": "2026-05-25T22:24:00+03:00",
+	"start_time_msk": "2026-05-25T22:24:00+03:00",
+	"stops": "везде",
+	"days": "ежедневно",
+	"stations": [{
+		"title": "ИТМО (КРОНВА)",
+		"is_combined": false,
+		"popular_title": "ИТМО (КРОНВА)",
+		"esr": "038205",
+		"departure": 0,
+		"departure_local": "2026-05-25T22:24:00+03:00",
+		"state": {
+			"key": "6187__9602497___2026-05-25T22:24:00___9602497___None___0___None___None"
+		}
+	}, {
+		"title": "ИТМО (ЛОМОНОСОВА)",
+		"is_combined": false,
+		"popular_title": "ИТМО (ЛОМОНОСОВА)",
+		"esr": "020004",
+		"arrival": 130,
+		"arrival_local": "2026-05-26T00:34:00+03:00",
+		"state": {
+			"key": "6187__9602497___2026-05-25T22:24:00___9603175___130___None___None___None"
+		}
+	}],
+	"tariffs": [{
+		"price": {
+			"currency": "RUR",
+			"value": 85.0
+		},
+		"id": 145650691,
+		"title": "полный тариф",
+		"code": "etrain",
+		"description": "",
+		"order": 0,
+		"url": "",
+		"category": "usual",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 78.0
+		},
+		"id": 145663229,
+		"title": "провоз животных",
+		"code": "animal",
+		"description": "",
+		"order": 90,
+		"url": "",
+		"category": "usual",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 2826.0
+		},
+		"id": 145524050,
+		"title": "на 5 дней",
+		"code": "5d",
+		"description": "",
+		"order": 100,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 4522.0
+		},
+		"id": 145536583,
+		"title": "на 10 дней",
+		"code": "10d",
+		"description": "",
+		"order": 110,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 6782.0
+		},
+		"id": 145549116,
+		"title": "на 15 дней",
+		"code": "15d",
+		"description": "",
+		"order": 120,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 13346.0
+		},
+		"id": 145561649,
+		"title": "на 1 месяц (30 дней)",
+		"code": "1m",
+		"description": "",
+		"order": 200,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 3956.0
+		},
+		"id": 145574188,
+		"title": "на 10 дней по будням",
+		"code": "10dr",
+		"description": "",
+		"order": 240,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 5652.0
+		},
+		"id": 145586721,
+		"title": "на 15 дней по будням",
+		"code": "15dr",
+		"description": "",
+		"order": 242,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 11210.0
+		},
+		"id": 145599254,
+		"title": "на 1 месяц (30 дней) по будням",
+		"code": "1mr",
+		"description": "",
+		"order": 250,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 2825.0
+		},
+		"id": 145611787,
+		"title": "на 5 дат",
+		"code": "5dat",
+		"description": "",
+		"order": 269,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 2512.0
+		},
+		"id": 145676790,
+		"title": "«Дачный» на 1 месяц",
+		"code": "dachny",
+		"description": "Действие абонемента распространяется на поездки по субботам, воскресеньям и праздничным дням без ограничения количества поездок. По пятницам и в предпраздничные дни в направлении «туда» (из Санкт-Петербурга) на одну поездку. По понедельникам (или в день, следующий за праздничным днем) действие абонемента распространяется на поездки «обратно» (в Санкт-Петербург) на одну поездку в течение месяца.",
+		"order": 305,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 2889.0
+		},
+		"id": 145621570,
+		"title": "на 10 поездок",
+		"code": "10p",
+		"description": "",
+		"order": 320,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 5652.0
+		},
+		"id": 145621668,
+		"title": "на 20 поездок",
+		"code": "20p",
+		"description": "",
+		"order": 321,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 16956.0
+		},
+		"id": 145621766,
+		"title": "на 60 поездок",
+		"code": "60p",
+		"description": "",
+		"order": 322,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}, {
+		"price": {
+			"currency": "RUR",
+			"value": 25434.0
+		},
+		"id": 145621864,
+		"title": "на 90 поездок",
+		"code": "90p",
+		"description": "",
+		"order": 323,
+		"url": "",
+		"category": "season_ticket",
+		"is_main": false
+	}],
+	"tariff": {
+		"currency": "RUR",
+		"value": 85.0
+	}
+}
